@@ -69,7 +69,8 @@ const answers=[
     '{userName}の良いところはHです',
     '{userName}の良いところはIです',
     '{userName}の良いところはJです',
-    '{userName}の良いところはKです'
+    '{userName}の良いところはKです',
+    '{userName}'s good point is lovely'
 ];
 
 /**
