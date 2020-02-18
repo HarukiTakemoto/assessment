@@ -70,7 +70,7 @@ const answers=[
     '{userName}の良いところはIです',
     '{userName}の良いところはJです',
     '{userName}の良いところはKです',
-    '{userName}'s good point is lovely'
+    '{userName}\'s good point is lovely'
 ];
 
 /**
